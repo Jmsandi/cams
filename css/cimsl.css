@@ -314,5 +314,5 @@ img[loading="lazy"]{background:#eee}
 @media(prefers-reduced-motion:reduce){
   *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
 }
-.cimsl-logo-img{width:40px;height:40px;border-radius:12px;object-fit:cover;box-shadow:0 4px 12px -4px rgba(11,61,46,.5)}
-.footer-logo{max-width:190px;height:auto;border-radius:14px;background:#fff;padding:.4rem;box-shadow:0 10px 24px -12px rgba(0,0,0,.5)}
+.cimsl-logo-nav{height:46px;width:auto;border-radius:10px;display:block;background:#fff;box-shadow:0 4px 12px -4px rgba(0,0,0,.5)}
+.footer-logo{max-width:210px;height:auto;border-radius:14px;background:#fff;padding:.4rem;box-shadow:0 10px 24px -12px rgba(0,0,0,.5)}

@@ -1,6 +1,6 @@
-# CIMSL Website — Children Integrated Missions Sierra Leone
+# CIMSL Website — Children Intergrated Missions International
 
-Official website for **Children Integrated Missions Sierra Leone (CIMSL)** —
+Official website for **Children Intergrated Missions International (CIMSL)** —
 *"Restoring Hope. Empowering Children. Building a Better Future."*
 
 Supports orphaned, abandoned, vulnerable and disadvantaged children through
@@ -56,7 +56,7 @@ Plus `sitemap.xml` and `robots.txt` (canonical base `https://cimsl.org/`).
 
 - **Donations:** Orange Money **076616259 — Samuel Mabona Kamara** (`donate.html`)
 - **Phone/WhatsApp:** +232 766 16259 · **Email:** samuelmabonakamara468@gmail.com
-- **Address:** 50 Conteh Street, Peacock Farm, Wellington, Freetown, Sierra Leone
+- **Address:** 5D Conton Street, Peacock Farm, Wellington, Freetown, Sierra Leone
 
 ## Content rules
 

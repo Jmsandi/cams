@@ -8,8 +8,8 @@ community gatherings and public events.
 ## Layout
 
 - `logo/` — organisation identity
-  - `cimsl-logo-full.png` — full oval logo (navbar alt, footer, about)
-  - `cimsl-logo-icon.png` — cropped mark (navbar, favicon)
+  - `cimsl-logo-trimmed.png` — full oval logo, margins trimmed (navbar + footer)
+  - `cimsl-favicon.png` — emblem crop for the browser tab icon
 - `hero/` — large landscape banners
   - `hero-community-meal.jpg` — home + donate heroes, OG image
   - `hero-children.jpg` — impact/contact/stories imagery

@@ -7,15 +7,15 @@
 window.CIMSL = window.CIMSL || {};
 
 window.CIMSL.site = {
-  name: "Children Integrated Missions Sierra Leone",
+  name: "Children Intergrated Missions International",
   short: "CIMSL",
   tagline: "Restoring Hope. Empowering Children. Building a Better Future.",
   phoneDisplay: "+232 766 16259",
   phoneHref: "+23276616259",
   phoneIntl: "23276616259",
   email: "samuelmabonakamara468@gmail.com",
-  address: "50 Conteh Street, Peacock Farm, Wellington, Freetown, Sierra Leone, West Africa",
-  mapsQuery: "50 Conteh Street, Peacock Farm, Wellington, Freetown, Sierra Leone",
+  address: "5D Conton Street, Peacock Farm, Wellington, Freetown, Sierra Leone, West Africa",
+  mapsQuery: "5D Conton Street, Peacock Farm, Wellington, Freetown, Sierra Leone",
   donate: { method: "Orange Money", number: "076616259", name: "Samuel Mabona Kamara" }
 };
 
@@ -94,7 +94,7 @@ window.CIMSL.news = [
     img: "images/cimsl/hero/hero-community-meal.jpg",
     alt: "Group of children at a CIMSL community gathering",
     excerpt: "Our new website makes it easier to understand our mission, explore our programs and find safe ways to donate, volunteer or partner with us.",
-    body: ["Children Integrated Missions Sierra Leone (CIMSL) exists to restore hope and create opportunities for orphaned, abandoned, vulnerable and disadvantaged children.", "This new website brings our mission, programs, objectives and contact information together in one clear, accessible place. You can now explore each program in detail, learn how to sponsor a child, volunteer or partner with us, and donate through our verified Orange Money channel.", "As we grow, this space will carry program updates, community activities and — only with proper consent and safeguarding — stories of hope from the communities we serve."]
+    body: ["Children Intergrated Missions International (CIMSL) exists to restore hope and create opportunities for orphaned, abandoned, vulnerable and disadvantaged children.", "This new website brings our mission, programs, objectives and contact information together in one clear, accessible place. You can now explore each program in detail, learn how to sponsor a child, volunteer or partner with us, and donate through our verified Orange Money channel.", "As we grow, this space will carry program updates, community activities and — only with proper consent and safeguarding — stories of hope from the communities we serve."]
   },
   {
     slug: "how-your-donation-is-used",
